@@ -30,7 +30,6 @@ build/
 target/
 bin/
 dependency-reduced-pom.xml
-sandbox/
 
 # Eclipse Project Files
 
@@ -53,6 +52,9 @@ sandbox/
 
 # Built Visual Studio Code Extensions
 *.vsix
+
+# Developer's sandbox
+sandbox/
 
 README.html
 application.properties
